@@ -59,6 +59,9 @@
   </p>
 </div>
 
+## Projeto feito em live no youtube
+- [x] [Fully Component With Angular](https://www.youtube.com/watch?v=ZGTzsRuh464)
+
 ## Features
 - [x] Fully Component With Angular
 
